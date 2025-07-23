@@ -1,0 +1,13 @@
+.box {
+    position: relative;
+    margin-top:-90px;
+    background-color: rgb(red, green, blue);
+}
+
+
+.image{
+    height: 500px;
+    width: 420px;
+    padding: 10px;
+    /* width: auto; */
+}

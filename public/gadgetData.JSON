@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "name": "Apple MacBook Air M2",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-13.6-inch-8256GB-midnight-1121.jpg",
+    "price": 145000,
+    "instock": true,
+    "details": "A lightweight and powerful MacBook with the M2 chip, ideal for professionals and students.",
+    "specification": {
+      "processor": "Apple M2 Chip",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "13.6-inch Retina",
+      "weight": "1.24 kg"
+    },
+    "category": "MacBook",
+    "ratings": 4.7
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-15-Plus-(2)-(5)-1544.jpg",
+    "price": 165000,
+    "instock": true,
+    "details": "Latest iPhone with advanced camera system and A17 Bionic chip.",
+    "specification": {
+      "processor": "A17 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "display": "6.1-inch Super Retina XDR",
+      "camera": "48MP Main"
+    },
+    "category": "iPhone",
+    "ratings": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy A54",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-A54-5G-Lime-6998.jpg",
+    "price": 35000,
+    "instock": true,
+    "details": "Mid-range smartphone with a vibrant AMOLED display and long battery life.",
+    "specification": {
+      "processor": "Exynos 1380",
+      "ram": "6GB",
+      "storage": "128GB",
+      "display": "6.4-inch FHD+ AMOLED",
+      "camera": "50MP Main"
+    },
+    "category": "Phone",
+    "ratings": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi Redmi Note 13",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Redmi-Note-13-5G-Chromatic-Purple-8155.jpg",
+    "price": 22000,
+    "instock": false,
+    "details": "Budget-friendly phone with a high refresh rate display and solid performance.",
+    "specification": {
+      "processor": "Snapdragon 685",
+      "ram": "6GB",
+      "storage": "128GB",
+      "display": "6.67-inch AMOLED",
+      "camera": "108MP Main"
+    },
+    "category": "Phone",
+    "ratings": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Apple AirPods Pro 2",
+    "price": 25000,
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/AirPods-Pro-(2nd-generation)-a-7813.jpg",
+    "instock": true,
+    "details": "Noise-cancelling earbuds with improved sound quality and active noise cancellation.",
+    "specification": {
+      "type": "In-Ear",
+      "battery": "6 hours (ANC on)",
+      "connectivity": "Bluetooth 5.3",
+      "noise_cancellation": "Adaptive ANC",
+      "case_battery": "30 hours"
+    },
+    "category": "Accessories",
+    "ratings": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy Watch 6",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-Watch6-Graphite-6125.jpg",
+    "price": 18000,
+    "instock": true,
+    "details": "Smartwatch with fitness tracking and seamless integration with Samsung phones.",
+    "specification": {
+      "display": "1.5-inch AMOLED",
+      "battery": "300mAh",
+      "connectivity": "Bluetooth 5.2",
+      "water_resistance": "5ATM",
+      "os": "Wear OS"
+    },
+    "category": "Smartwatch",
+    "ratings": 4.5
+  },
+  {
+    "id": 7,
+    "name": "HP Pavilion 15",
+    "image": "https://computermania.com.bd/wp-content/uploads/2025/01/HP-250-G10-13th-Gen-Price-in-BD-2.jpg",
+    "price": 75000,
+    "instock": true,
+    "details": "Reliable laptop for everyday use with good performance and battery life.",
+    "specification": {
+      "processor": "Intel Core i5-1235U",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "display": "15.6-inch FHD",
+      "weight": "1.75 kg"
+    },
+    "category": "Laptop",
+    "ratings": 4.2
+  },
+  {
+    "id": 8,
+    "name": "Lenovo IdeaPad 3",
+    "image": "https://computermania.com.bd/wp-content/uploads/2025/01/Lenovo-IdeaPad-1-15AMN7-1.webp",
+    "price": 45000,
+    "instock": false,
+    "details": "Affordable laptop suitable for students and basic productivity tasks.",
+    "specification": {
+      "processor": "AMD Ryzen 5 5500U",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "15.6-inch HD",
+      "weight": "1.65 kg"
+    },
+    "category": "Laptop",
+    "ratings": 4.1
+  },
+  {
+    "id": 9,
+    "name": "Anker PowerCore 10000",
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-bank/anker/10000mah-22-5w/10000mah-22-5w-01-228x228.webp",
+    "price": 2500,
+    "instock": true,
+    "details": "Compact power bank with fast charging capabilities.",
+    "specification": {
+      "capacity": "10000mAh",
+      "output": "USB-C 18W",
+      "input": "USB-C 18W",
+      "weight": "180g",
+      "ports": "2"
+    },
+    "category": "Accessories",
+    "ratings": 4.5
+  },
+  {
+    "id": 10,
+    "name": "Spigen iPhone 15 Case",
+    "image": "https://www.spigen.com.bd/image/cache/catalog/15%20Series/plus/Ultra%20Hybrid%20Zero%20One%20MagFit/Ultra-Hybrid-Zero-One-(MagFit)-600x600.jpg",
+    "price": 2000,
+    "instock": true,
+    "details": "Durable case offering military-grade protection for iPhone 15.",
+    "specification": {
+      "material": "TPU + Polycarbonate",
+      "compatibility": "iPhone 15",
+      "protection": "Military Grade",
+      "color": "Black",
+      "weight": "30g"
+    },
+    "category": "Accessories",
+    "ratings": 4.4
+  },
+  {
+    "id": 11,
+    "name": "Amazfit GTS 4",
+    "image": "https://api.motionview.com.bd/storage/images/products/profile/166366770654.amazfit%20gts%204%20smartwatch%20black.webp",
+    "price": 12000,
+    "instock": true,
+    "details": "Slim smartwatch with advanced health monitoring features.",
+    "specification": {
+      "display": "1.65-inch AMOLED",
+      "battery": "250mAh",
+      "connectivity": "Bluetooth 5.0",
+      "water_resistance": "5ATM",
+      "os": "Zepp OS"
+    },
+    "category": "Smartwatch",
+    "ratings": 4.3
+  },
+  {
+    "id": 12,
+    "name": "Dell XPS 13",
+    "image": "https://computermania.com.bd/wp-content/uploads/2025/01/Dell-XPS-1-2.jpg",
+    "price": 135000,
+    "instock": true,
+    "details": "Premium ultrabook with stunning display and powerful performance.",
+    "specification": {
+      "processor": "Intel Core i7-1250U",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "13.4-inch 4K UHD+",
+      "weight": "1.2 kg"
+    },
+    "category": "Laptop",
+    "ratings": 4.8
+  },
+  {
+    "id": 13,
+    "name": "Apple MacBook Pro M3",
+    "image": "https://istockbd.com/cdn/shop/files/MacBook-Pro-16-inch-M3-Pro-price-in-Bangladesh.jpg?v=1698748349&width=1000",
+    "price": 185000,
+    "instock": true,
+    "details": "High-performance MacBook with M3 chip, perfect for creative professionals.",
+    "specification": {
+      "processor": "Apple M3 Chip",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14.2-inch Liquid Retina",
+      "weight": "1.6 kg"
+    },
+    "category": "MacBook",
+    "ratings": 4.9
+  },
+  {
+    "id": 14,
+    "name": "iPhone 14 Plus",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Plus-Blue-5074.jpg",
+    "price": 125000,
+    "instock": false,
+    "details": "Large-screen iPhone with excellent battery life and A15 Bionic chip.",
+    "specification": {
+      "processor": "A15 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "display": "6.7-inch Super Retina XDR",
+      "camera": "12MP Main"
+    },
+    "category": "iPhone",
+    "ratings": 4.6
+  },
+  {
+    "id": 15,
+    "name": "OnePlus 12",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/OnePlus-12-Flowy-Emerald-9569.jpg",
+    "price": 85000,
+    "instock": true,
+    "details": "Flagship phone with fast performance and high-quality display.",
+    "specification": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "display": "6.82-inch AMOLED",
+      "camera": "50MP Main"
+    },
+    "category": "Phone",
+    "ratings": 4.7
+  },
+  {
+    "id": 16,
+    "name": "Oppo Find X6 Pro",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/OPPO-Find-X6-Pro-Black-1068.jpg",
+    "price": 95000,
+    "instock": true,
+    "details": "Premium phone with advanced camera system and sleek design.",
+    "specification": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "display": "6.7-inch AMOLED",
+      "camera": "50MP Triple"
+    },
+    "category": "Phone",
+    "ratings": 4.6
+  },
+  {
+    "id": 17,
+    "name": "JBL Tune 500",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/1964-98939.jpg",
+    "price": 3500,
+    "instock": true,
+    "details": "Affordable over-ear headphones with good sound quality.",
+    "specification": {
+      "type": "Over-Ear",
+      "battery": "20 hours",
+      "connectivity": "Bluetooth 4.1",
+      "weight": "155g",
+      "mic": "Yes"
+    },
+    "category": "Accessories",
+    "ratings": 4.2
+  },
+  {
+    "id": 18,
+    "name": "Belkin BoostCharge Power Bank 20K",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/2765-95477.jpg",
+    "price": 4500,
+    "instock": false,
+    "details": "High-capacity power bank with fast charging support.",
+    "specification": {
+      "capacity": "20000mAh",
+      "output": "USB-C 15W",
+      "input": "USB-C 15W",
+      "weight": "400g",
+      "ports": "2"
+    },
+    "category": "Accessories",
+    "ratings": 4.4
+  },
+  {
+    "id": 19,
+    "name": "Huawei Watch GT 4",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/HUAWEI-Watch-GT-4-46mm-Black-1726.jpg",
+    "price": 20000,
+    "instock": true,
+    "details": "Stylish smartwatch with advanced fitness tracking features.",
+    "specification": {
+      "display": "1.43-inch AMOLED",
+      "battery": "451mAh",
+      "connectivity": "Bluetooth 5.1",
+      "water_resistance": "5ATM",
+      "os": "HarmonyOS"
+    },
+    "category": "Smartwatch",
+    "ratings": 4.5
+  },
+  {
+    "id": 1,
+    "name": "Apple iPhone 16",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-16-Plus---16-Black-9711.jpg",
+    "price": 79900,
+    "instock": true,
+    "details": "Advanced smartphone with Apple Intelligence and powerful camera system.",
+    "specification": {
+      "processor": "A18 Bionic",
+      "ram": "8GB",
+      "storage": "128GB",
+      "display": "6.1-inch Super Retina XDR",
+      "weight": "170 g"
+    },
+    "category": "iPhone",
+    "ratings": 4.8
+  }
+]
