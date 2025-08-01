@@ -19,4 +19,32 @@ const addToStoredReadList=(id)=>{
     }
 }
 
-export {addToStoredReadList,getStoredReadList}
+
+const getStoredWishlist = () => {
+    const storedWishlist = localStorage.getItem('wishlist');
+    if (storedWishlist) {
+        return JSON.parse(storedWishlist);
+    }
+    return [];
+};
+
+const addToWishlist = (id) => {
+    const wishlist = getStoredWishlist();
+    if (!wishlist.includes(id)) {
+        wishlist.push(id);
+        localStorage.setItem('wishlist', JSON.stringify(wishlist));
+    }
+};
+const removeFromCart = (id) => {
+    let cart = getStoredReadList();
+    cart = cart.filter(item => item !== id);
+    localStorage.setItem('read-list', JSON.stringify(cart));
+};
+
+const removeFromWishlist = (id) => {
+    let wishlist = getStoredWishlist();
+    wishlist = wishlist.filter(item => item !== id);
+    localStorage.setItem('wishlist', JSON.stringify(wishlist));
+};
+
+export { addToStoredReadList, getStoredReadList, addToWishlist, getStoredWishlist, removeFromCart, removeFromWishlist };
