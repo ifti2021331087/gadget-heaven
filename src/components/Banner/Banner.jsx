@@ -19,8 +19,7 @@ const Banner = () => {
                     <div className="max-w-4xl">
                         <h1 className="mb-5 text-5xl font-bold">Upgrade Your Tech Accessorize with Gadget Heaven Accessories</h1>
                         <p className="mb-5">
-                            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-                            quasi. In deleniti eaque aut repudiandae et a id nisi.
+                            Enhance your tech experience with top-quality accessories from Gadget Heaven.
                         </p>
                         <button className="btn btn-active btn-info text-lg rounded-lg">Get Started</button>
                     </div>
